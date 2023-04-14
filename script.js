@@ -37,7 +37,7 @@ const collection = [
     name: "Kill Bill V.1",
     director: "Quentin Tarantino",
     releaseYear: 2003,
-    picture: "images/Killbill.jpg",
+    picture: "images/killbill.jpg",
     genre: "Action",
     cast: ["Uma Thurman", " Lucy Liu", " Daryl Hannah", " David Carradine"],
   },
